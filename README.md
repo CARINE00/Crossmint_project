@@ -12,6 +12,7 @@ This project contains scripts developed for the Crossmint Challenge, organized b
 ## Project Structure ##
 
 CROSSMINT_PROJECT_/
+```
 │
 ├── Polyanets/
 │ ├── post_polyanets.py
@@ -28,8 +29,7 @@ CROSSMINT_PROJECT_/
 ├── run_create_all.py # Executes all creation scripts in the correct order
 ├── run_delete_all.py # Executes all deletion scripts in reverse order
 ├── requirements.txt
-└── README.md
-
+└── README.md ```
 ## Execution 🚀 ##
 
 Create all entities (in the correct order)
