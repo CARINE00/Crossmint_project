@@ -1,34 +1,34 @@
 # Crossmint Megaverse Challenge
 This project contains scripts developed for the Crossmint Challenge, organized by entity:
 
- -  Polyanets 🪐##
+ -  Polyanets 🪐
 
- -  Soloons 🌕 ##
+ -  Soloons 🌕 
 
- - Comeths ☄️ ##
+ - Comeths ☄️ 
 
 ``` Each module includes scripts for creating (post_) and removing (delete_) entities. ```
 
 ## Project Structure ##
 
 CROSSMINT_PROJECT_/
-│
-├── Polyanets/
-│   ├── post_polyanets.py
-│   └── delete_polyanets.py
-│
-├── Soloons/
-│   ├── post_soloons.py
-│   └── delete_soloons.py
-│
-├── Comeths/
-│   ├── post_comeths.py
-│   └── delete_comeths.py
-│
-├── run_create_all.py       # Executes all creation scripts in the correct order
-├── run_delete_all.py       # Executes all deletion scripts in reverse order
-├── requirements.txt
-└── README.md
+        │
+        ├── Polyanets/
+        │   ├── post_polyanets.py
+        │   └── delete_polyanets.py
+        │
+        ├── Soloons/
+        │   ├── post_soloons.py
+        │   └── delete_soloons.py
+        │
+        ├── Comeths/
+        │   ├── post_comeths.py
+        │   └── delete_comeths.py
+        │
+        ├── run_create_all.py       # Executes all creation scripts in the correct order
+        ├── run_delete_all.py       # Executes all deletion scripts in reverse order
+        ├── requirements.txt
+        └── README.md
 
 ## Execution 🚀 ##
 
